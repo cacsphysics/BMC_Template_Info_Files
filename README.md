@@ -2,7 +2,7 @@
 The purpose of this repository is to complement the template repository through latex-package manuals and links related to the packages employed in the BMC template.
 
 # Bibliography Setup
-The bibliography setup currently used within the template was constructed with various stackexchange information. The solutions within [the link](https://tex.stackexchange.com/questions/400644/no-hanging-indent-with-biblatex-in-bibliography) are very helpful.
+The bibliography setup currently used within the template was constructed with various stackexchange information. The solutions within [the link](https://tex.stackexchange.com/questions/400644/no-hanging-indent-with-biblatex-in-bibliography) are very helpful. In addition, the [biblatex package](https://github.com/cacsphysics/BMC_Template_Info_Files/blob/main/biblatex.pdf) was curcial in understanding the **\defbibenvironment{}** biblatex command.
 
 The Bibliography code block:
 ```
