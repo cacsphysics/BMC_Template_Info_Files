@@ -27,5 +27,6 @@ The Bibliography code block:
 }
 ```
 
-
+# Table of Contents Setup
+The table of contents, and chapter, section and subsection headers, are formatted using the titlsec packages, there are three.
 
