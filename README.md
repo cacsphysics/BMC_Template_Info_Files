@@ -28,5 +28,6 @@ The Bibliography code block:
 ```
 
 # Table of Contents Setup
-The table of contents, and chapter, section and subsection headers, are formatted using the [titlsec packages](https://github.com/cacsphysics/BMC_Template_Info_Files/blob/main/titlesec.pdf), there are three. > I wish they implemented the hyperref package.
+The table of contents, and chapter, section and subsection headers, are formatted using the [titlesec packages](https://github.com/cacsphysics/BMC_Template_Info_Files/blob/main/titlesec.pdf), there are three. 
+> I wish the author of the titlesec manual used the hyperref package.
 
